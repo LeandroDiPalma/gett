@@ -1,0 +1,11 @@
+.button-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 8px;
+}
+
+.todo-container{
+    display: flex;
+    flex-direction: row;
+    column-gap: 4px;
+}

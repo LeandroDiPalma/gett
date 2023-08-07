@@ -1,0 +1,11 @@
+.card-content {
+    display: 'flex';
+    flex-direction: 'column';
+    justify-content: 'space-between'; 
+}
+
+.typography-title {
+    text-overflow: clip;
+    width: 120px;
+    overflow: hidden;
+}
